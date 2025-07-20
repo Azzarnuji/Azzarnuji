@@ -3,6 +3,18 @@
   Fullstack Developer | AI Integration | Automation Engineer | Problem Solver
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Azzarnuji&label=Profile+Views&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777bb4" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=flat&logo=laravel" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-green?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/MQ-RabbitMQ-orange?style=flat&logo=rabbitmq" />
+  <img src="https://img.shields.io/badge/Queue-Redis-red?style=flat&logo=redis" />
+  <img src="https://img.shields.io/badge/AI-HuggingFace-yellow?style=flat&logo=huggingface" />
+  <img src="https://img.shields.io/badge/Container-Docker-blue?style=flat&logo=docker" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -22,26 +34,28 @@ Many of the systems I’ve built are internal or under NDA — but here’s a ge
 
 ---
 
-### 🛠️ Stack & Tools
+### 🛠️ Tools & Tech Stack
 
-- **Languages:** PHP, Python, JavaScript  
-- **Backend:** Laravel, Flask, FastAPI, Node.js  
-- **AI & Data:** HuggingFace, Gemini, ONNX, OpenAI, Prompt Engineering  
-- **Infra:** Docker, Redis, RabbitMQ, Nginx  
-- **Automation:** Selenium, Puppeteer  
-- **Database:** MySQL  
-- **Other:** Socket.IO, Git, REST API, WebSocket, CI/CD, Linux
+<p>
+  <img src="https://img.shields.io/badge/Lang-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lang-PHP-8892BE?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Queue-RabbitMQ-F60?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Infra-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface"/>
+</p>
 
 ---
 
-### 📦 Work Philosophy
+### 📈 GitHub Stats
 
-> "If it's repetitive, I automate it.  
-> If it's messy, I refactor it.  
-> If it's internal, I secure it.  
-> If it's painful, I document it."
-
-I love building systems that actually work in production, scale well, and make my team faster.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azzarnuji&show_icons=true&theme=radical&hide=prs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzarnuji&layout=compact&theme=radical"/>
+</p>
 
 ---
 
@@ -54,4 +68,3 @@ I love building systems that actually work in production, scale well, and make m
 ---
 
 _🚧 PS: Most of my work is under private repos or internal projects, but I'm always open to collaborations and challenges._
-
