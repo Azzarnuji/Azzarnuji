@@ -48,16 +48,6 @@ Many of the systems I’ve built are internal or under NDA — but here’s a ge
   <img src="https://img.shields.io/badge/AI-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface"/>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azzarnuji&show_icons=true&theme=radical&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzarnuji&layout=compact&theme=radical"/>
-</p>
-
----
 
 ### 📫 Let’s Connect!
 
