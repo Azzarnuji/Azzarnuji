@@ -29,7 +29,7 @@ Many of the systems I’ve built are internal or under NDA — but here’s a ge
 - **AI & Data:** HuggingFace, Gemini, ONNX, OpenAI, Prompt Engineering  
 - **Infra:** Docker, Redis, RabbitMQ, Nginx  
 - **Automation:** Selenium, Puppeteer  
-- **Database:** MySQL, PostgreSQL  
+- **Database:** MySQL  
 - **Other:** Socket.IO, Git, REST API, WebSocket, CI/CD, Linux
 
 ---
